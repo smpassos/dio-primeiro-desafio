@@ -25,8 +25,8 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 - git push
 
 - git pull
-
-
+  
+  
 
 ### Para apontar do repositório local para o repositório do GitHub
 
@@ -50,4 +50,6 @@ Abrir o Git Bash na pasta e executar os seguintes comandos:
 
 2 - git commit -m "incluir comentário aqui"
 
-3 - git push
+3 - git push origin main
+
+
